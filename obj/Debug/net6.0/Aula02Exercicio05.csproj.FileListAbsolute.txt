@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\bin\Debug\net6.0\Aula02Exercicio05.exe
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\bin\Debug\net6.0\Aula02Exercicio05.deps.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\bin\Debug\net6.0\Aula02Exercicio05.runtimeconfig.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\bin\Debug\net6.0\Aula02Exercicio05.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\bin\Debug\net6.0\Aula02Exercicio05.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\obj\Debug\net6.0\Aula02Exercicio05.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\obj\Debug\net6.0\Aula02Exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\obj\Debug\net6.0\Aula02Exercicio05.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\obj\Debug\net6.0\Aula02Exercicio05.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\obj\Debug\net6.0\Aula02Exercicio05.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\obj\Debug\net6.0\Aula02Exercicio05.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\obj\Debug\net6.0\refint\Aula02Exercicio05.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\obj\Debug\net6.0\Aula02Exercicio05.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\obj\Debug\net6.0\Aula02Exercicio05.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02Exercicio05\obj\Debug\net6.0\ref\Aula02Exercicio05.dll
